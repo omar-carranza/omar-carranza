@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,php,laravel,vscode,kubernetes&perline=14" />
-  </a>
-</p>
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"><b style="font-size: 17px;"> My tech stack</b>
+
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,cpp,linux,windows,html,css,javascript,bootstrap,vscode,php,mysql,postgresql,sqlite,spring,redis,python,androidstudio,idea,notion,eclipse,docker,git,github,matlab,r,gcp,arduino,maven,ubuntu,mongodb&theme=dark&perline=10" alt="My Skills" /></a>
