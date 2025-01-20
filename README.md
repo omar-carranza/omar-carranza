@@ -13,6 +13,8 @@ Motivated Junior Fullstack Developer with over a year of experience building inn
 ![](https://github-readme-streak-stats.herokuapp.com/?user=omar-carranza&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=omar-carranza&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=omar-carranza&theme=dark)](https://git.io/streak-stats)
+
 ## Contact with me
  <a href="https://twitter.com/tu_usuario" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter&theme=dark" alt="Twitter" width="40"/>
