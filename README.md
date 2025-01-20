@@ -9,7 +9,7 @@ I'm a motivated Junior Fullstack Developer with just over a year of experience i
 
 ## Contact with me
  <p align="center">
-  <a href="https://twitter.com/tu_usuario" target="_blank">
+  <a href="https://twitter.com/omarcrza" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter&theme=dark" alt="Twitter" width="40"/>
   </a>
   <a href="https://discord.com/invite/tu_invitacion" target="_blank">
