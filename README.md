@@ -5,15 +5,7 @@ I'm a motivated Junior Fullstack Developer with just over a year of experience i
 <!--tech stack icons-->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="29"> <b style="font-size: 24px; sans-serif;">My tech stack</b>
 
-[![My Skills](https://skillicons.dev/icons?i=java,cpp,linux,windows,html,css,javascript,bootstrap,vscode,php,mysql,postgresql,sqlite,spring,redis,python,androidstudio,idea,notion,eclipse,docker,git,github,matlab,r,gcp,arduino,maven,ubuntu,mongodb&theme=dark&perline=15)](https://skillicons.dev)
-
-## Stadistics 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=omar-carranza&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=omar-carranza&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=omar-carranza&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=omar-carranza&theme=dark)](https://git.io/streak-stats)
+[![My Skills](https://skillicons.dev/iconsi=java,cpp,linux,windows,html,css,javascript,bootstrap,vscode,php,mysql,postgresql,sqlite,spring,redis,python,androidstudio,idea,notion,eclipse,docker,git,github,matlab,r,gcp,arduino,maven,ubuntu,mongodb&theme=dark&perline=15)](https://skillicons.dev)
 
 ## Contact with me
  <a href="https://twitter.com/tu_usuario" target="_blank">
