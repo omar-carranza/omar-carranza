@@ -7,7 +7,14 @@ Motivated Junior Fullstack Developer with over a year of experience building inn
 
 [![My Skills](https://skillicons.dev/icons?i=java,cpp,linux,windows,html,css,javascript,bootstrap,vscode,php,mysql,postgresql,sqlite,spring,redis,python,androidstudio,idea,notion,eclipse,docker,git,github,matlab,r,gcp,arduino,maven,ubuntu,mongodb&theme=dark&perline=15)](https://skillicons.dev)
 
+## Stadistics 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=omar-carranza&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=omar-carranza&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=omar-carranza&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 ## Contact with me
  <a href="https://twitter.com/tu_usuario" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter&theme=dark" alt="Twitter" width="40"/>
   </a>
+
