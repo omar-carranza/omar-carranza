@@ -1,6 +1,6 @@
 # Hello, world! 👋
-Motivated Junior Fullstack Developer with over a year of experience building innovative and scalable software solutions. Skilled in various programming languages and frameworks, with experience in designing, developing, and deploying high-performance applications. Additionally, I am continuously expanding my knowledge in cloud computing through courses and certifications.
 
+I'm a motivated Junior Fullstack Developer with just over a year of experience in software development. I have knowledge in different programming languages, frameworks, and databases, and I’ve worked on building and deploying applications. I’m also learning more about cloud computing through courses and certifications to keep improving.
 
 <!--tech stack icons-->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="29"> <b style="font-size: 24px; sans-serif;">My tech stack</b>
