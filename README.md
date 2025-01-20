@@ -9,5 +9,5 @@ Motivated Junior Fullstack Developer with over a year of experience building inn
 
 ## Contact with me
  <a href="https://twitter.com/tu_usuario" target="_blank">
- <img src="[https://skillicons.dev/icons?i=twitter&theme=dark](https://static.vecteezy.com/system/resources/previews/042/148/611/non_2x/new-twitter-x-logo-twitter-icon-x-social-media-icon-free-png.png)"alt="Twitter" width="40"/>
+    <img src="https://skillicons.dev/icons?i=twitter&theme=dark" alt="Twitter" width="40"/>
   </a>
