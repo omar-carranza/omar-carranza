@@ -8,7 +8,21 @@ I'm a motivated Junior Fullstack Developer with just over a year of experience i
 [![My Skills](https://skillicons.dev/icons?i=java,cpp,linux,windows,html,css,javascript,bootstrap,vscode,php,mysql,postgresql,sqlite,spring,redis,python,androidstudio,idea,notion,eclipse,docker,git,github,matlab,r,gcp,arduino,maven,ubuntu,mongodb&theme=dark&perline=15)](https://skillicons.dev)
 
 ## Contact with me
- <a href="https://twitter.com/tu_usuario" target="_blank">
+ <p align="center">
+  <a href="https://twitter.com/tu_usuario" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter&theme=dark" alt="Twitter" width="40"/>
   </a>
+  <a href="https://discord.com/invite/tu_invitacion" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord&theme=dark" alt="Discord" width="40"/>
+  </a>
+  <a href="https://instagram.com/tu_usuario" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" width="40"/>
+  </a>
+  <a href="https://dev.to/tu_usuario" target="_blank">
+    <img src="https://skillicons.dev/icons?i=devto&theme=dark" alt="Dev.to" width="40"/>
+  </a>
+  <a href="https://linkedin.com/in/tu_usuario" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" width="40"/>
+  </a>
+</p>
 
