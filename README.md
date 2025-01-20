@@ -8,3 +8,6 @@ Motivated Junior Fullstack Developer with over a year of experience building inn
 [![My Skills](https://skillicons.dev/icons?i=java,cpp,linux,windows,html,css,javascript,bootstrap,vscode,php,mysql,postgresql,sqlite,spring,redis,python,androidstudio,idea,notion,eclipse,docker,git,github,matlab,r,gcp,arduino,maven,ubuntu,mongodb&theme=dark&perline=15)](https://skillicons.dev)
 
 ## Contact with me
+ <a href="https://twitter.com/tu_usuario" target="_blank">
+ <img src="https://skillicons.dev/icons?i=twitter&theme=dark"alt="Twitter" width="40"/>
+  </a>
