@@ -1,11 +1,9 @@
 <!--Profile presentation-->
 <h1 align="center">Hello, world! 👋🏾🤖</h1>
 
-I'm a motivated Junior Fullstack Developer with just over a year of experience in software development. I have knowledge in different programming languages, frameworks, and databases, and I’ve worked on building and deploying applications. I’m also learning more about cloud computing through courses and certifications to keep improving.
-
 <p align="center">
   I'm a motivated Junior Fullstack Developer with just over a year of experience in software development. I have knowledge in different programming languages, frameworks, and databases, and I’ve worked on building and deploying applications. I’m also learning more about cloud computing through courses and certifications to keep improving.
-</p>
+</p><br>
 
 <!--My tech stack section-->
 <h2 align="center">🛠️⚙️ My tech stack and tools</h2>
