@@ -10,7 +10,7 @@
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,cpp,linux,windows,html,css,javascript,bootstrap,vscode,php,mysql,postgresql,sqlite,spring,redis,python,androidstudio,idea,notion,eclipse,docker,git,github,matlab,r,gcp,arduino,maven,ubuntu,mongodb&theme=dark&perline=15" alt="My Skills" /></a><br>
 
-<h2 align="center">Stats GitHub profile</h2>
+<h2 align="center">📉 Stats GitHub profile</h2>
 
 <!--
 <p align="center">
