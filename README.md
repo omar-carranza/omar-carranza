@@ -10,6 +10,13 @@ I'm a motivated Junior Fullstack Developer with just over a year of experience i
 <h2 align="center">Stats GitHub profile</h2>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=omar-carranza&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 
+<div style="text-align: center;">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=omar-carranza&theme=dark&hide_border=true" alt="GitHub Streak" />
+  </a>
+</div>
+
+
 <!--Social media for contact-->
 <h2 align="center">📌👇🏾 Contact with me</h2>
 <p align="center">
