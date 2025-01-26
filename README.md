@@ -10,21 +10,21 @@ I'm a motivated Junior Fullstack Developer with just over a year of experience i
 
 <!--Social media for contact-->
 ## Contact with me
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <a href="https://twitter.com/omarcrza" target="_blank">
+<p align="center">
+  <a href="https://twitter.com/omarcrza" target="_blank" style="margin: 0 5px; text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=twitter&theme=dark" alt="Twitter" width="35"/>
   </a>
-  <a href="https://discord.com/invite/tu_invitacion" target="_blank">
+  <a href="https://discord.com/invite/tu_invitacion" target="_blank" style="margin: 0 5px; text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=discord&theme=dark" alt="Discord" width="35"/>
   </a>
-  <a href="https://instagram.com/tu_usuario" target="_blank">
+  <a href="https://instagram.com/tu_usuario" target="_blank" style="margin: 0 5px; text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" width="35"/>
   </a>
-  <a href="https://dev.to/tu_usuario" target="_blank">
+  <a href="https://dev.to/tu_usuario" target="_blank" style="margin: 0 5px; text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=devto&theme=dark" alt="Dev.to" width="35"/>
   </a>
-  <a href="https://linkedin.com/in/tu_usuario" target="_blank">
+  <a href="https://linkedin.com/in/tu_usuario" target="_blank" style="margin: 0 5px; text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" width="35"/>
   </a>
-</div>
+</p>
 
