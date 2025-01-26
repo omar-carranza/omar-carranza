@@ -10,6 +10,7 @@ I'm a motivated Junior Fullstack Developer with just over a year of experience i
 
 <!--Social media for contact-->
 ## Contact with me
+<h2 align="center">Contact with me</h2>
 <p align="center">
   <a href="https://twitter.com/omarcrza" target="_blank" style="margin: 0 5px; text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=twitter&theme=dark" alt="Twitter" width="40" style="border: none;"/>
