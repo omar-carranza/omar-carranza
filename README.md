@@ -18,6 +18,12 @@ I'm a motivated Junior Fullstack Developer with just over a year of experience i
 
 <p align="center">
   <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=omar-carranza&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Most languages" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=omar-carranza&theme=dark&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
