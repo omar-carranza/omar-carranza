@@ -8,15 +8,17 @@
 <!--My tech stack section-->
 <h2 align="center">🛠️⚙️ My tech stack and tools</h2>
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,cpp,linux,windows,html,css,javascript,bootstrap,vscode,php,mysql,postgresql,sqlite,spring,redis,python,androidstudio,idea,notion,eclipse,docker,git,github,matlab,r,gcp,arduino,maven,ubuntu,mongodb&theme=dark&perline=15" alt="My Skills" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,cpp,linux,windows,html,css,javascript,bootstrap,vscode,php,mysql,postgresql,sqlite,spring,redis,python,androidstudio,idea,notion,eclipse,docker,git,github,matlab,r,gcp,arduino,maven,ubuntu,mongodb&theme=dark&perline=15" alt="My Skills" /></a><br>
 
 <h2 align="center">Stats GitHub profile</h2>
 
+<!--
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar-carranza&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Most languages" />
   </a>
 </p>
+-->
 
 <p align="center">
   <a href="https://git.io/streak-stats">
