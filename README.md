@@ -14,7 +14,7 @@ I'm a motivated Junior Fullstack Developer with just over a year of experience i
   <a href="https://twitter.com/omarcrza" target="_blank" style="margin: 0 5px; text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=twitter&theme=dark" alt="Twitter" width="40" style="border: none;"/>
   </a>
-  <a href="discordapp.com/users/omarcza" target="_blank" style="margin: 0 5px; text-decoration: none;">
+  <a href="https://discord.com/channels/@omarcza" target="_blank" style="margin: 0 5px; text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=discord&theme=dark" alt="Discord" width="40" style="border: none;"/>
   </a>
   <a href="https://instagram.com/omar.carranzac" target="_blank" style="margin: 0 5px; text-decoration: none;">
