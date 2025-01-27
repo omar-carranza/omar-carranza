@@ -15,20 +15,20 @@
 <!--
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar-carranza&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Most languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar-carranza&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Languages that use" />
   </a>
 </p>
 -->
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=omar-carranza&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Most languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=omar-carranza&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Commits and contributions" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=omar-carranza&theme=dark&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=omar-carranza&theme=dark&hide_border=true" alt="Streak days in Github" />
   </a>
 </p>
 
